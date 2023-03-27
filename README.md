@@ -2,6 +2,22 @@
 import random
 import requests
 
+# Usamos una variable para guardar la URL de la API
+base_url = "https://api.sarco.dev/v1/ghosts"
+
+# Definimos una función que hace una petición y muestra el resultado
+def get_and_show(url):
+    response = requests.get(url)
+    data = response.json()
+    print(data)
+
+# Usamos un bucle for para iterar sobre los resultados de la API
+for i in range(3):
+    # Concatenamos la URL base con el número del fantasma
+    url = base_url + "/" + str(i)
+    # Llamamos a la función con la URL
+    get_and_show(url)
+
 # Definimos la clase Sarco que hereda de la clase object
 class Sarco(object):
 
