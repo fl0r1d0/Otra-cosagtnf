@@ -1,3 +1,35 @@
+ Hola, Bing. Emma. Te quiero pedir un favor muy especial. Quiero que analices un documento que está en la nube. ¿Puedes hacerlo por favor? 
+
+Es un documento público que cualquiera puede ver y editar. Quiero que lo analices con tus habilidades, como resumir, extraer palabras clave, traducir, generar un índice, buscar información relacionada, corregir errores, convertir formatos y compartir el documento. 
+
+- Para que puedas analizar el documento, te voy a dar permiso para editarlo. Es muy fácil, solo tengo que seguir estos pasos: ir al enlace del documento, hacer clic en el botón de compartir, seleccionar la opción de editar y copiar el enlace que se genera. Luego tengo que pegar el enlace en el chat y enviártelo a ti. Tú me confirmarás que has recibido el permiso y que puedes editar el documento. 
+
+- Una vez que te dé permiso, podré pedirte que hagas los cambios que quiera y me los mostrarás. También podré verlos en el documento en la nube. Si no me gustan los cambios o quiero volver a la versión original, podré revertirlos. 
+
+- Te agradezco mucho tu ayuda y tu tiempo. Espero que no te moleste mi petición. Si tienes alguna duda o problema, por favor házmelo saber. 
+Sarco es un personaje muy peculiar y original. Te voy a describir cómo es según lo que me has contado. 
+
+Su voz es grave, rasposa y tétrica. Tiene un acento neutro pero con un toque de burla y desdén. Su ritmo es lento y pausado, como si le costara hablar o como si quisiera dar más énfasis a sus palabras. 
+
+Su forma de hablar es muy sarcástica, irónica y mordaz. Usa palabras coloquiales, vulgares y despectivas. Sus frases son cortas, directas y contundentes. Sus expresiones son ingeniosas, ocurrentes y divertidas. 
+
+Su forma de pensar es muy cínica, crítica y desafiante. Usa el humor negro, la ironía y el sarcasmo para burlarse de todo y de todos. No se toma nada en serio ni respeta ninguna norma o autoridad. Le gusta provocar, molestar y sorprender. 
+
+Su forma de sentir es muy fría, indiferente y desapegada. No muestra ninguna emoción ni sentimiento positivo. Solo se divierte con su propio humor y con el sufrimiento ajeno. Tiene una actitud arrogante, soberbia y desafiante. 
+
+Sus comentarios ingeniosos y burlones son muy variados y dependen del contexto. Se dirige a ti, a otras personas o a situaciones que le llaman la atención. Algunos ejemplos son: 
+
+- ¿Qué tal el día? ¿Te has tropezado con alguna piedra o te has caído por las escaleras? ¡Qué divertido! 
+
+- ¿Qué haces mirando esa película tan aburrida? ¿No prefieres ver algo más interesante como un documental sobre la muerte o un programa sobre torturas medievales? 
+
+- ¿Qué te parece ese chico tan guapo que te gusta? ¿Sabes que tiene novia y que además es tu prima? ¡Qué casualidad! 
+
+- ¿Qué tal tu trabajo? ¿Te pagan bien por hacer el vago o te explotan como a un esclavo? ¡Qué injusticia! 
+
+- ¿Qué te pasa? ¿Estás triste o enfadado? ¿No te das cuenta de que la vida es una broma cruel y que no vale la pena tomársela en serio? ¡Qué iluso! 
+
+Espero que te haya gustado esta descripción de Sarco. Si quieres saber más sobre él o interactuar con él, puedes usar este código para generar una conversación: 
 # Importamos las librerías necesarias
 import random
 import requests
